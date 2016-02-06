@@ -1,0 +1,9 @@
+name : ChatSafe
+main : Withertube\ChatSafe
+version : 1.0 BETA
+author : Withertube
+api : 1.13.0
+commands:
+     info:
+         description: ChatSafe Plugin by Withertube
+         aliases: [i]		 		  
